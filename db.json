@@ -72,6 +72,16 @@
         }
       ]
     },
-    "id":"create"
+    {
+      "id": "create",
+      "title": "",
+      "date": "",
+      "time": "",
+      "location": "",
+      "description": "",
+      "organizer": "",
+      "category": "",
+      "attendees": []
+    }
   ]
 }
